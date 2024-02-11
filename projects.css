@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+}
+.left1 {
+    padding-left: 20%;
+}
+
+.right1 {
+    padding-left: 80%;
+}
+
+.active {
+    color: grey;
+}
+.inactive {
+    color: white;
+}
