@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+}
+.left1 {
+    padding-right: 50%;
+}
+
+.active {
+    color: grey;
+}
+.inactive {
+    color: white;
+}
