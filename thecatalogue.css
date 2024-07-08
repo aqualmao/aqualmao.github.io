@@ -36,9 +36,12 @@ body {
     padding-left: 40%;
 }
 
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px){
-.desktop-display {display:none;}
-.mobile-display {display:block;}
+@media only screen and (max-width: 414px ){
+    .desktop{
+        visibility: collapse;
+    }
+
+    .phone {
+        visibility: visible;
+    }
 }
