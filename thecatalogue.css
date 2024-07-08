@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+}
+.left1 {
+    padding-right: 50%;
+}
+
+.h1 {
+    font-size:15px;
+}
+
+.big {
+    font-size:20px;
+}
+
+.big {
+    font-size:20px;
+    color: grey;
+}
+
+.white{
+    color: grey;
+}
+
+.left1 {
+    padding-right: 40%;
+}
+
+.right1 {
+    padding-left: 40%;
+}
